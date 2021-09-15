@@ -24,6 +24,7 @@ div{
   text-align: center;
   border: 2px dashed #f69c55;
 }
+
 span{
   color: rgb(3, 251, 44);
   margin: 0px;
@@ -32,4 +33,12 @@ span{
   vertical-align: middle;
   text-align: center;
   line-height: normal;
+}
+
+a{
+  color: rgb(3, 251, 44);
+  margin: 0px;
+  padding: 0px;
+  vertical-align: middle;
+  text-align: center;
 }
