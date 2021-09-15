@@ -30,5 +30,6 @@ span{
   padding: 0px;
   display: inline-block;
   vertical-align: middle;
+  text-align: center;
   line-height: normal;
 }
